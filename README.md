@@ -122,3 +122,5 @@ Mapreduce hoạt động dựa vào nguyên tắc chính là “Chia để trị
     1. https://dataartblog.wordpress.com/2014/11/20/gioi-thieu-ve-apache-spark/
     2. https://en.wikipedia.org/wiki/Apache_Spark
     3. https://en.wikipedia.org/wiki/MapReduce
+## 4. Bài tập: Tạo Project trên Colab dùng Spark đọc vào một file văn bản và đếm số từ trên bản, lọc ra k từ có tần suất xuất hiện nhiều nhất.
+<p> Bài tập được thực hiện trong file bt1_wordcount_week1.ipynb. </p>
